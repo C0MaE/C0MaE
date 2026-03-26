@@ -1,16 +1,37 @@
-## Hi there 👋
+# hey, I'm Jannis — C0MaE
 
-<!--
-**C0MaE/C0MaE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics student building fullstack applications, writing Rust, and crafting simulations. Drawn to problems where software meets the physical world.
 
-Here are some ideas to get you started:
+Junior Developer @ [BEYONDIT GmbH](https://beyondit.de) · CAU Kiel · Northern Germany
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## stack
+
+**frontend** — TypeScript · React · Next.js · Astro · Tailwind CSS
+**backend** — Rust · Axum · Tokio · PostgreSQL · SQLx
+**physics** — Python (NumPy/SciPy) · LaTeX · Numerical Methods
+**tools** — Docker · Linux · Git · WebAssembly · Vercel
+
+---
+
+## projects
+
+| project | description | stack |
+|--------|-------------|-------|
+| [TAP](https://github.com/C0MaE/TAP) | full-stack tournament management platform | Rust · Next.js · PostgreSQL · Docker |
+| [Open DnD](https://github.com/C0MaE/OpenDnD) | developer productivity CLI | Rust · Tauri · React |
+| [McLookup](https://github.com/C0MaE/McLookup) | Minecraft character data lookup library | Kotlin |
+| [JDA Command Manager](https://github.com/C0MaE/JDACommandManager) | minimal command manager for Discord bots | Kotlin · JDA |
+
+---
+
+## find me
+
+[![GitHub](https://img.shields.io/badge/GitHub-C0MaE-181717?style=flat&logo=github)](https://github.com/C0MaE)
+[![Discord](https://img.shields.io/badge/Discord-C0MaE-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/469199839230427146)
+[![Email](https://img.shields.io/badge/Email-jannis.koberg@icloud.com-black?style=flat&logo=apple)](mailto:jannis.koberg@icloud.com)
+
+---
+
+*coding since 2020 · started with Java on Minecraft servers · still enjoying every bit of it*
