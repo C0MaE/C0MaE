@@ -2,7 +2,7 @@
 
 Physics student building fullstack applications, writing Rust, and crafting simulations. Drawn to problems where software meets the physical world.
 
-Junior Developer @ [BEYONDIT GmbH](https://beyondit.de) · CAU Kiel · Northern Germany
+Junior Developer @ [BEYONDIT GmbH](https://beyondit.gmbh) · CAU Kiel · Northern Germany
 
 ---
 
