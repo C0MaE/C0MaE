@@ -1,4 +1,4 @@
-# hey, I'm Jannis — C0MaE
+# hey, I'm C0MaE
 
 Physics student building fullstack applications, writing Rust, and crafting simulations. Drawn to problems where software meets the physical world.
 
