@@ -30,7 +30,6 @@ Junior Developer @ [BEYONDIT GmbH](https://beyondit.de) · CAU Kiel · Northern 
 
 [![GitHub](https://img.shields.io/badge/GitHub-C0MaE-181717?style=flat&logo=github)](https://github.com/C0MaE)
 [![Discord](https://img.shields.io/badge/Discord-C0MaE-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/469199839230427146)
-[![Email](https://img.shields.io/badge/Email-jannis.koberg@icloud.com-black?style=flat&logo=apple)](mailto:jannis.koberg@icloud.com)
 
 ---
 
